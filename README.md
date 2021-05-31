@@ -14,4 +14,4 @@ Estas imágenes también se encuentran en Docker Hub (por lo que pueden ser desc
 https://hub.docker.com/r/robinsonclemente12/maquina1 \
 https://hub.docker.com/r/robinsonclemente12/maquina2
 
-En el repositorio (Docker Hub) de la máquina 1 están las indicaciones para realizar la práctica.
+En el repositorio (Docker Hub) de la máquina 1 están las indicaciones para realizar la práctica de la comunicación entre dos contenedores.
